@@ -1,3 +1,8 @@
+Initial post on vc.ru from skyeng:
+https://vc.ru/skyeng/92219-besplatnyy-python-skript-kotoryy-pomozhet-vam-uluchshit-analiz-voronok-cjm-i-dazhe-poisk-bagov-v-produkte?fbclid=IwAR0isOgmjMCbnOQwifIaEflx0lOWbzv-adZMf5qanfnXF1gQbN6fZuslQYM
+
+
+
 What we do here: 
 1) take a user activity log
 2) execute the script that trains a Markov Chain and outputs it as a .gefx file
